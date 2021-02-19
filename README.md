@@ -20,4 +20,4 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=samer-alhalabi&show_icons=true&theme=gotham" alt="Samer Alhalabi's" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=samer-alhalabi&show_icons=true&theme=" alt="Samer Alhalabi's" />
