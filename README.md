@@ -7,7 +7,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 - 🌱 I’m addicted to learning and growing everyday on both personal and career levels
 - 💬 Ask me about anything, I am happy to help
 
-**Social Media:** 
+**Social Media: 
 <a href="https://https://twitter.com/SamerAlHalabi4">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
