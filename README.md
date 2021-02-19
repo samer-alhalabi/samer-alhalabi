@@ -8,6 +8,13 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 - 💬 Ask me about anything, I am happy to help
 
 ##### Social Media: 
+<a href="https://https://twitter.com/SamerAlHalabi4">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sameralhalabi/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
@@ -21,9 +28,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://https://twitter.com/SamerAlHalabi4">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sameralhalabi/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
   
