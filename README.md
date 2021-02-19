@@ -6,7 +6,7 @@
 I’m a data generalist who is passionate about contributing to all aspects of data such as statistics, reporting, advanced analytics, machine learning and data engineering. I've had the chance to immerse myself in many different works and projects, helping to make valuable insights and better data-driven decisions through creative analysis & code.
 
 
-- :computer: I love programming, statisitcs, anything data-related. I also :heart: :music: classical piano, good coffee, cooking, and reading books.
+- :computer: I love programming, statisitcs, anything data-related. I also :heart: classical piano, good :coffee:, cooking, and reading books.
 - ⚡ I’m addicted to learning and growing everyday on both personal and career levels
 - 💬 Ask me about anything, I am happy to help
 
