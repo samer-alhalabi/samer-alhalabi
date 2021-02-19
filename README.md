@@ -11,6 +11,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sameralhalabi/)](https://www.linkedin.com/in/sameralhalabi/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SamerAlHalabi4)](https://twitter.com/SamerAlHalabi4)
 
 <br />
+
 #### Languages and Tools: 
 ![Python Badge](https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python&logoColor=white&link)![Pandas Badge](https://img.shields.io/badge/-pandas-white?style=flat-square&logo=pandas&logoColor=black&link)![Python Numpy](https://img.shields.io/badge/-NumPy-white?style=flat-square&logo=NumPy&logoColor=black&link)![mat Badge](https://img.shields.io/badge/-Matplotlib-white?style=flat-square&logo=Matplotlib&logoColor=black&link)![dash Badge](https://img.shields.io/badge/-Dash-white?style=flat-square&logo=Dash%20Python&logoColor=black&link)![sk Badge](https://img.shields.io/badge/-scikitlearn-white?style=flat-square&logo=scikit-learn&logoColor=black&link)![bs Badge](https://img.shields.io/badge/-Beautiful%20Soup-white?style=flat-square&logo=Beautiful%20Soup&logoColor=black&link)
 ![SQL Badge](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL&logoColor=yellow&link)
