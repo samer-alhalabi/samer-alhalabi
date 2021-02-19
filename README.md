@@ -17,3 +17,6 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 ##### 🌎 Find me elsewhere:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sameralhalabi/)](https://www.linkedin.com/in/sameralhalabi/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SamerAlHalabi4)](https://twitter.com/SamerAlHalabi4)
+
+
+*** It has been said, the world’s most valuable resource is no longer oil, but data.***
