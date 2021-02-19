@@ -16,7 +16,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 
 #### Languages and Tools: 
-https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white&link
+[![Linkedin Badge](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white&link)
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png"></code>
