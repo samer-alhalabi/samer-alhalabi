@@ -19,5 +19,5 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sameralhalabi/)](https://www.linkedin.com/in/sameralhalabi/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SamerAlHalabi4)](https://twitter.com/SamerAlHalabi4)
 
 
-📈 My GitHub Stats
+#### 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=samer-alhalabi&show_icons=true&theme="black" alt="" />
