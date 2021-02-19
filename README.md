@@ -2,8 +2,8 @@
 
 I’m a data generalist who is passionate about contributing to all aspects of data such as statistics, reporting, advanced analytics, machine learning and data engineering. I've had the chance to immerse myself in many different works and projects, helping to make valuable insights and better data-driven decisions through creative analysis & code.
 
-⚡ I love programming, statisitcs, anything data-related, and books;
-🌱 I’m addicted to learning and growing everyday on both personal and career levels
+- ⚡ I love programming, statisitcs, anything data-related, and books
+- 🌱 I’m addicted to learning and growing everyday on both personal and career levels
 
 Here are some ideas to get you started:
 
