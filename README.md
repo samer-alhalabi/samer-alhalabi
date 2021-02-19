@@ -13,6 +13,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 </a>
 <a href="https://www.linkedin.com/in/sameralhalabi/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 Here are some ideas to get you started:
