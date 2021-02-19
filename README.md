@@ -16,7 +16,6 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
