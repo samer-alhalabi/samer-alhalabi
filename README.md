@@ -17,6 +17,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 #### Languages and Tools: 
 ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=yellow&link)
+![Pandas Badge](https://img.shields.io/badge/-pandas-white?style=flat-square&logo=pandas&logoColor=black&link)
 ![SQL Badge](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL&logoColor=yellow&link)
 ![Tableau Badge](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white&link)
 ![Power BI Badge](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=Power%20BI&logoColor=black&link)
