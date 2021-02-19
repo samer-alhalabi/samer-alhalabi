@@ -16,7 +16,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 
 #### Languages and Tools: 
- ![Python Badge](https://img.shields.io/badge/-Python-white?style=flat-square&logo=ssis&logoColor=white&link) 
+(https://img.shields.io/badge/-Python-white?style=flat-square&logo=ssis&logoColor=white&link) 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 ![Pandas Badge](https://img.shields.io/badge/-pandas-white?style=flat-square&logo=pandas&logoColor=black&link)![Python Numpy](https://img.shields.io/badge/-NumPy-white?style=flat-square&logo=NumPy&logoColor=black&link)![mat Badge](https://img.shields.io/badge/-Matplotlib-white?style=flat-square&logo=Matplotlib&logoColor=black&link)![dash Badge](https://img.shields.io/badge/-Dash-white?style=flat-square&logo=Dash%20Python&logoColor=black&link)![sk Badge](https://img.shields.io/badge/-scikitlearn-white?style=flat-square&logo=scikit-learn&logoColor=black&link)![bs Badge](https://img.shields.io/badge/-Beautiful%20Soup-white?style=flat-square&logo=Beautiful%20Soup&logoColor=black&link)
 ![SQL Badge](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL&logoColor=yellow&link)
