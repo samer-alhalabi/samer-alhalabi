@@ -8,13 +8,6 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 - 💬 Ask me about anything, I am happy to help
 
 ##### 🌎 Find me elsewhere:
-<a href="https://https://twitter.com/SamerAlHalabi4">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sameralhalabi/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sameralhalabi/)](https://www.linkedin.com/in/sameralhalabi/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SamerAlHalabi4)](https://twitter.com/SamerAlHalabi4)
 
 
