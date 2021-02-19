@@ -7,7 +7,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 - 🌱 I’m addicted to learning and growing everyday on both personal and career levels
 - 💬 Ask me about anything, I am happy to help
 
-## Social Media: 
+##### Social Media: 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
