@@ -16,9 +16,9 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 
 #### Languages and Tools: 
-![Tableau Badge](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white&link)
 ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=yellow&link)
 ![SQL Badge](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL&logoColor=yellow&link)
+![Tableau Badge](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white&link)
 ![MS Badge](https://img.shields.io/badge/-Microsoft%20Products-blue?style=flat-square&logo=Microsoft&logoColor=white&link)
 ![Oracle Badge](https://img.shields.io/badge/-Oracle%20Products-red?style=flat-square&logo=Oracle&logoColor=white&link)
 
