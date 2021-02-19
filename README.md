@@ -1,7 +1,10 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Samer Alhalabi!
 
+I’m a data generalist who is passionate about contributing to all aspects of data such as statistics, reporting, advanced analytics, machine learning and data engineering. I've had the chance to immerse myself in many different works and projects, helping to make valuable insights and better data-driven decisions through creative analysis & code.
 
-I’m a data generalist who is passionate about contributing to all aspects of data such as statistics, reporting, advanced analytics, machine learning and data engineering. I've had the chance to immerse myself in many different works and projects, helping to make insights and better data-driven decisions through creative analysis & code.
+### What I'm focusing on 👨‍💻
+Currently improving my machine learning and data science skills.<br />
+
 
 Here are some ideas to get you started:
 
