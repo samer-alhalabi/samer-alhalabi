@@ -16,10 +16,10 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 
 #### Languages and Tools: 
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white&link)
+![Tableau Badge](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white&link)
 
 
-[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=yellow&link)
+![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=yellow&link)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
