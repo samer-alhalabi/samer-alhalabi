@@ -7,7 +7,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 
 - :computer: I love programming, statisitcs, and anything data-related. I also :heart: good coffee :coffee:, cooking :cook:, and reading books :book:.
-- ⚡ I’m addicted to learning and growing everyday on both personal and career levels
+- ⚡ I’m addicted to learning and growing everyday on both personal and professional levels
 - 💬 Ask me about anything, I am happy to help
 
 #### Languages and Tools: 
