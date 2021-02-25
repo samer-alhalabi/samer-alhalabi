@@ -1,7 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there. I'm Samer!
 
-![](https://visitor-badge.glitch.me/badge?page_id=samer-alhalabi.samer-alhalabi)
-
 #### :bulb: It has been said, the world’s most valuable resource is no longer oil 🚧 , but data 📈
 
 
@@ -37,6 +35,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samer-alhalabi&hide_border=true" />
 </details>
 
+![](https://visitor-badge.glitch.me/badge?page_id=samer-alhalabi.samer-alhalabi)
 
 <div align="left">
 
