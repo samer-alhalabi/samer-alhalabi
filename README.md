@@ -1,5 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there. I'm Samer!
 
+![](https://visitor-badge.glitch.me/badge?page_id=samer-alhalabi.samer-alhalabi)
+
 #### :bulb: It has been said, the world’s most valuable resource is no longer oil 🚧 , but data 📈
 
 
