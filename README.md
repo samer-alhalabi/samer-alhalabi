@@ -9,6 +9,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 - :computer: I love programming, statisitcs, and anything data-related. Love good coffee :coffee:, cooking :cook:, and reading books :book:.
 - ⚡ I’m addicted to learning and growing everyday on both personal and professional levels
 - 💬 Ask me about anything, I am happy to help
+- :note: Portfolio
 
 #### Languages and Tools: 
 ![Python Badge](https://img.shields.io/badge/-Python:-gray?style=flat-square&logo=python&logoColor=white&link)![Pandas Badge](https://img.shields.io/badge/-pandas-gray?style=flat-square&logo=pandas&logoColor=white&link)![Python Numpy](https://img.shields.io/badge/-NumPy-gray?style=flat-square&logo=NumPy&logoColor=white&link)![mat Badge](https://img.shields.io/badge/-Matplotlib-gray?style=flat-square&logo=Matplotlib&logoColor=white&link)![dash Badge](https://img.shields.io/badge/-Dash-gray?style=flat-square&logo=Dash%20Python&logoColor=white&link)![sk Badge](https://img.shields.io/badge/-scikitlearn-gray?style=flat-square&logo=scikit-learn&logoColor=white&link)![bs Badge](https://img.shields.io/badge/-Beautiful%20Soup-gray?style=flat-square&logo=Beautiful%20Soup&logoColor=white&link)
