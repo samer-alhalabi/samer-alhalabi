@@ -36,5 +36,9 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 </details>
 
 
+<div align="center">
 
+##### Show some ❤️ by starring some of the repositories!
+
+</div>
 
