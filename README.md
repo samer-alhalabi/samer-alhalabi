@@ -23,7 +23,7 @@ I’m a data generalist who is passionate about contributing to all aspects of d
 
 
 <details>	
-  <summary><b> 📈 Github Stats</b></summary>
+  <summary><b> 📈 Github Stats</b></summary> ![](https://visitor-badge.glitch.me/badge?page_id=samer-alhalabi.samer-alhalabi)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samer-alhalabi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samer-alhalabi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
